@@ -1,0 +1,76 @@
+.nav-holder .nav-header > ul > li > ul.search-box form,
+.nav-holder .nav-header > ul > li > ul.cart-box .cart-footer .checkout-box a.thm-btn,
+.thm-btn,
+.sec-title h2:after,
+.with-carousel .owl-carousel .owl-nav [class*=owl-]:hover,
+.single-team-member .content:before,
+.single-team-member .content .social,
+.single-fact:hover .icon-box,
+.latest-blog .featured-post .box .box-holder h3:after,
+.footer-widget .title h3:after,
+.footer-widget .social li,
+.footer-top .right-text .box:before,
+.inner-banner h2:after,
+.about-tab-box .tab-title-box ul li.active:before, 
+.about-tab-box .tab-title-box ul li:hover:before,
+.testimonials-carousel .owl-theme .owl-nav [class*=owl-],
+.fact-wrapper.no-parallax .single-fact:hover .icon-box,
+.faq-page .accrodion.active .accrodion-title:after,
+.single-fact-counter .counter:after,
+.single-pricing-box .price-box,
+.single-sidebar-widget .sidebar-call-to-action .bottom-box button,
+.single-sidebar-widget .search-box form button,
+.single-sidebar-widget .search-box form button:after,
+.faq-form .thm-btn:hover,
+.vehicle-year .ui-widget-header,
+.vehicle-year .thm-spinner.ui-slider .ui-slider-handle,
+.ui-selectmenu-menu .ui-menu-item.ui-state-focus,
+.blog-page .single-blog-post .meta-info .date-box .inner-box,
+.footer-top .right-text .text-box a:hover {
+	background: #008DCC;
+}
+
+.nav-holder .nav-header > ul > li > ul.cart-box .cart-content .content i,
+.thm-banner-wrapper .caption-h1.dark-bg,
+.thm-banner-wrapper .caption-h1.corgange,
+.about-info-box .bulleted-list li,
+.featured-services .sec-title h2 span,
+.single-blog-post .content-box > a,
+.footer-widget .contact-infos li .icon-box,
+.footer-widget .link-list a:hover,
+.footer-widget .about-widget a,
+.footer-top .right-text .text-box .number,
+.about-tab-box .single-tab-content ul li .fa,
+.single-testimonial-carousel .content-box p .quote,
+.fact-wrapper.no-parallax .single-fact:hover h3,
+.single-testimonial-box header .content .stars li span,
+.service-page-content ul li,
+.list-item li:before,
+ul.special-checkbox li.active,
+.single-product-item ul li span i,
+.nav-holder .nav-footer ul.nav > li ul.submenu li:hover > a,
+.single-testimonial-carousel .content-box p.name span {
+	color: #008DCC;
+}
+
+.with-carousel .owl-carousel .owl-nav [class*=owl-]:hover,
+.single-team-member .content,
+.single-fact:hover .icon-box,
+.footer-widget .social li,
+.fact-wrapper.no-parallax .single-fact:hover .icon-box,
+.ui-selectmenu-menu .ui-menu-item.ui-state-focus,
+.footer-top .right-text .text-box a:hover {border-color: #008DCC;}
+
+.img-cap-effect .img-box .img-caption {
+	background: rgba(0,141,204,.6);
+}
+
+/* skin hover color styles */
+
+.single-services a:hover {
+    background: #1B272E;
+}
+
+.nav-holder .nav-header > ul > li:hover > button {color: #1B272E;}
+
+.blog-page .single-blog-post .meta-info .date-box .inner-box {border-color: #337AB7;}

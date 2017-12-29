@@ -1,0 +1,15 @@
+* Alexfil
+** TODO Implementar a escolha do veiculo 
+   Começar por usar uma api, analisar se vale a pena usar persistir na bd
+- https://vpic.nhtsa.dot.gov/api/ 
+- http://developer.edmunds.com/api-documentation/overview/
+** TODO tirar fotos à oficina e alterar fotos 
+** TODO Limpar CSS e JS desnecessário
+   Utilizar ferramenta do firefox
+** DONE Validar morada google maps e implementar mapa
+   CLOSED: [2017-12-09 Sat 21:37]
+** DONE Repensar página de contactos e marcações
+   CLOSED: [2017-12-10 Sun 03:57]
+** TODO Noticias
+   Implementar um rss(http://rss.mpl.pt/) reader simples com o SimplePie. 
+
